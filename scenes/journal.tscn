@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://4p0a6ruv1c84"]
+
+[ext_resource type="Script" path="res://scripts/journal.gd" id="1_ggyum"]
+
+[node name="Journal" type="Node"]
+script = ExtResource("1_ggyum")
